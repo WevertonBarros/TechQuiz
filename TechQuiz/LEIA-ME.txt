@@ -1,0 +1,11 @@
+Bem vindo ao TechQuiz!
+
+Para que sua experiência seja completa, é necessário que seu computador tenha instalado os módulos
+Tkinter e pygame do python3.
+
+Caso, você queira adicionar alguma pergunta ao quiz, abra o arquivo questoes.txt e organize da seguinte forma:
+pergunta (na primeira linha)
+alternativa a (na segunda linha)
+alternativa b (na terceira linha)
+alternativa c (na quarta linha)
+alternativa d (na quinta linha. A alternativa d SEMPRE deve ser a correta).

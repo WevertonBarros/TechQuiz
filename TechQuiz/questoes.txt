@@ -1,0 +1,155 @@
+Comando que não representa uma estrutura de repetição:
+For
+While
+Do... while
+If
+Sinal de atribuição em python:
+:=
+==
+++
+=
+O que significa ‘concatenar’?
+Dividir duas variáveis
+Conjunto de caracteres
+Configurar o tipo de variável
+Unir dados de modo lógico.
+Qual o resultado da operação (20 % 5)?
+4
+5
+2
+0
+Linguagem usada principalmente para aprender programação:
+Java
+Python
+PHP
+Pascal
+Não é uma linguagem de programação:
+PHP
+JavaScript
+Python
+Html
+Sequência finita de instruções que visam chegar a um resultado:
+Orientação a objetos
+Banco de dados
+Paradigma de programação
+Algoritmo
+A palavra Pseudocódigo, significa:
+Seu Código
+Código de Alguém
+Código de Baixo Nível
+Falso Código
+Instrução própria da linguagem python:
+Else
+While
+Foreach
+Elif
+Qual o resultado da operação ((10+2)*3))
+12
+24
+16
+36
+Qual o resultado da operação (2**4)
+4
+400
+12
+16
+Quem é considerado o pai da computação moderna ?
+René Descartes
+Francisco Simões
+Linus Torvalds
+Alan Turing
+Onde está situada a maior concentração de empresas de TI ?
+Vale do amanhecer
+Vale da computação
+Vale da tecnologia
+Vale do silício
+Qual sigla que significa Protocolo de Transferência de Hipertexto Seguro ?
+HTTP
+WWW
+HTML
+HTTPS
+Qual a porcentagem de pessoas que não tem acesso a internet no mundo ?
+65%
+75%
+27%
+45%
+Como é definido um componente físico de um computador ?
+Software
+Periférico
+Gabinete
+Hardware
+O que significa a sigla WWW ?
+Work Wide Web
+Wide Width Wickets
+Weekend
+World Wide Web
+Chrome,Firefox,Edge,Explorer são :
+Sistemas operacionais
+Hardware
+Linguagens
+Browsers
+Quem foi o principal desenvolvedor do S.O Linux?
+João Almeida
+Karl Marx
+Uchiha Madara
+Linus Torvalds
+Qual lei diz que as portas lógicas AND e OR podem substituir uma pela outra?
+Distributiva
+Associativa
+Comutativa
+De Morgan
+Qual função que inverte o estado da variável de entrada?
+AND
+XOR
+NOR
+NOT
+X.X' :
+1
+X
+X'
+0
+Endereço de um recurso disponível em uma rede:
+Web
+WWW
+com
+URL
+Qual o nome do mascote do linux ?
+Prux
+Pinguin
+Arnaldo
+Tux
+Qual desses é um Hardware que possui armazenamento volátil?
+HD
+CD
+Seu cérebro
+RAM
+Um computador só entende código binário, ou seja:
+Maiúsculo e minúsculo
+0 ou 10
+1 ou 2
+0 ou 1
+Linguagem própria para desenvolvimento web:
+Java
+C
+Ruby
+PHP
+Promove a interação entre programa e usuário:
+Algoritmo
+Banco de dados
+Arquivo
+Interface gráfica
+É obrigatório em um código python:
+Criação de classes.
+Ponto e vírgula após comando.
+Declaração de variável
+Identação
+Em java, os escopos são organizados por:
+Identação
+Begin e End
+()
+{}
+Melhor professor do mundo :D
+Samarone Lima
+João Almeida
+Gustavo Nóbrega
+Francisco Simões
